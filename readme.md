@@ -1,0 +1,1 @@
+Projetos de análise e previsão de séries temporais.
